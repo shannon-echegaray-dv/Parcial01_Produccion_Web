@@ -10,7 +10,7 @@ $activePage = $activePage ?? '';
     <title><?= $pageTitle ?> | <?= APP_NAME ?></title>
     <link rel="stylesheet" href="<?= url('assets/css/output.css') ?>">
 </head>
-<body class="min-h-full bg-white font-sans text-gray-900 antialiased">
+<body class="flex min-h-screen flex-col bg-white font-sans text-gray-900 antialiased">
 <a class="absolute left-4 top-0 z-50 -translate-y-full rounded-lg border-2 border-green-700 bg-white px-4 py-2 text-green-800 focus:translate-y-3" href="#contenido">Saltar al contenido</a>
 <header class="relative border-b border-gray-100 bg-white">
     <div class="mx-auto flex min-h-20 w-full max-w-6xl items-center justify-between gap-8 px-6 max-sm:gap-3 max-sm:py-3">
@@ -30,6 +30,6 @@ $activePage = $activePage ?? '';
         </button>
     </div>
 </header>
-<main id="contenido">
+<main id="contenido" class="flex-1">
 
 

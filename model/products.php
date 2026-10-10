@@ -11,6 +11,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Cuidado de la piel',
             'description' => 'Concentrado facial para incorporar a la rutina diaria de cuidado de la piel.',
+            'model' => 'Mineral 89 x 50 ml',
         ],
         [
             'id' => 2,
@@ -21,6 +22,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Maquillaje',
             'description' => 'Máscara de pestañas de la línea Wonder Volume de Rimmel.',
+            'model' => 'Wonder Volume Thrill Seeker',
         ],
         [
             'id' => 3,
@@ -31,6 +33,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo de la línea Hialurónico Pure para el cuidado capilar.',
+            'model' => 'Hialurónico Pure x 400 ml',
         ],
         [
             'id' => 4,
@@ -41,6 +44,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Dermocosmética',
             'description' => 'Sérum facial de la línea Effaclar para sumar a la rutina de cuidado.',
+            'model' => 'Peeling Diario x 30 ml',
         ],
         [
             'id' => 5,
@@ -51,6 +55,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Suplementos',
             'description' => 'Suplemento deportivo en cápsulas, presentado como referencia de catálogo.',
+            'model' => 'Creatina HCL Ultra Concentrada x 60 cápsulas',
         ],
         [
             'id' => 6,
@@ -61,6 +66,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Solares',
             'description' => 'Protector solar facial FPS 50+ de efecto seco.',
+            'model' => 'Facial FPS 50+ Efecto Seco x 50g',
         ],
         [
             'id' => 7,
@@ -71,6 +77,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Solares',
             'description' => 'Protector solar facial UV Defender de textura fluida.',
+            'model' => 'UV Defender Fluido Invisible FPS 50+ x 40g',
         ],
         [
             'id' => 8,
@@ -81,6 +88,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Solares',
             'description' => 'Protector solar facial de textura fluida e invisible.',
+            'model' => 'Facial Fluido Invisible FPS 50+ x 50g',
         ],
         [
             'id' => 9,
@@ -91,6 +99,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Solares',
             'description' => 'Protector solar UV Defender de la línea AquaFusion.',
+            'model' => 'UV Defender AquaFusion FPS 50+ x 50ml',
         ],
         [
             'id' => 10,
@@ -101,6 +110,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Solares',
             'description' => 'Protector solar facial FPS 50+ de Aveno.',
+            'model' => 'Facial FPS 50+ x 50g',
         ],
         [
             'id' => 11,
@@ -111,6 +121,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Solares',
             'description' => 'Protector solar familiar FPS 50.',
+            'model' => 'Family FPS 50 x 400g',
         ],
         [
             'id' => 12,
@@ -121,6 +132,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo Dercos DS para cabello normal a graso.',
+            'model' => 'Dercos DS Normal a Graso x 200ml',
         ],
         [
             'id' => 13,
@@ -131,6 +143,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo Klorane de la línea anticaída.',
+            'model' => 'Anticaída x 400ml',
         ],
         [
             'id' => 14,
@@ -141,6 +154,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo Dercos de Vichy para cuero cabelludo sensible.',
+            'model' => 'Dercos Anticaspa Cuero Cabelludo Sensible x 200ml',
         ],
         [
             'id' => 15,
@@ -151,6 +165,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado personal',
             'description' => 'Crema hidratante Farmacity para el cuidado diario de las manos.',
+            'model' => 'Hidratante x 60g',
         ],
         [
             'id' => 16,
@@ -161,6 +176,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo energizante de la línea Dercos.',
+            'model' => 'Dercos Energizante Anticaída x 200ml',
         ],
         [
             'id' => 17,
@@ -171,6 +187,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo Elvive de la línea Dream Long.',
+            'model' => 'Dream Long x 200ml',
         ],
         [
             'id' => 18,
@@ -181,6 +198,7 @@ function allProducts(): array {
             'rating' => 4,
             'category' => 'Cuidado capilar',
             'description' => 'Shampoo Tío Nacho de la línea Anti Daño.',
+            'model' => 'Aclarante x 200ml',
         ],
         [
             'id' => 19,
@@ -191,6 +209,7 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Cuidado de la piel',
             'description' => 'Crema facial hidratante de la línea Ureadin.',
+            'model' => 'Ureadin Hidratación Intensa x 50ml',
         ],
         [
             'id' => 20,
@@ -201,8 +220,19 @@ function allProducts(): array {
             'rating' => 5,
             'category' => 'Cuidado de la piel',
             'description' => 'Crema facial Cosrx para integrar a una rutina de cuidado.',
+            'model' => 'Advanced Snail 92 All In One x 50g',
         ],
     ];
+}
+
+function findProductById(int $id): ?array {
+    foreach (allProducts() as $product) {
+        if ($product['id'] === $id) {
+            return $product;
+        }
+    }
+
+    return null;
 }
 
 function featuredProducts(): array {
