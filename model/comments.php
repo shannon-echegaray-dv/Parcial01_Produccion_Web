@@ -1,7 +1,6 @@
 <?php
 
-function allComments(): array
-{
+function allComments(): array {
     return [
         [
             'author' => 'Lucía M.',
@@ -46,8 +45,7 @@ function allComments(): array
     ];
 }
 
-function approvedComments(?int $productId = null): array
-{
+function approvedComments(?int $productId = null): array {
     $approved = [];
 
     foreach (allComments() as $comment) {
